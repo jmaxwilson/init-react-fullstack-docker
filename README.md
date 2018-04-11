@@ -1,6 +1,6 @@
 # init-react-fullstack-docker
 
-A docker container that you can use to initialize a new Node web application with a Relay-React client fontend and a GraphQL server backend using the react-fullstack scafolding code available from https://github.com/lvarayut/relay-fullstack
+A docker container that you can use to initialize a new Node web application with a Relay-React client fontend and a GraphQL server backend using the react-fullstack scaffolding code available from https://github.com/lvarayut/relay-fullstack
 
 The docker container is based `node:latest` and includes:
 
